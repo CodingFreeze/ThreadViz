@@ -1,12 +1,6 @@
 {
   "version": 2,
   "framework": "create-react-app",
-  "projectSettings": {
-    "framework": "create-react-app",
-    "buildCommand": null,
-    "devCommand": null,
-    "outputDirectory": null
-  },
   "routes": [
     {
       "src": "/static/(.*)",
